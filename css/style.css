@@ -186,6 +186,7 @@ form{
 }
 .item{
     max-width: 255px;
+    position: relative;
 }
 .img_pading{
     padding-top: 40px;
@@ -227,4 +228,9 @@ form{
     font-size: 16px;
     line-height: 150%;
     color: #FFFFFF;
+}
+.pisition{
+    position: absolute;
+    right: 83px;
+    bottom: 176px;
 }

@@ -5,21 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="addf4937-90ec-43ce-8455-01ce7736fd6e" name="Changes" comment="new section">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rectangle10.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rectangle11.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rectangle12.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rectangle13.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rectangle14.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rectangle7.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rectangle8.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Rectangle9.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reviews1.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reviews2.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reviews3.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reviews4.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -59,8 +45,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654603018469</updated>
-      <workItem from="1654603020341" duration="19763000" />
+      <workItem from="1654603020341" duration="23035000" />
     </task>
+    <task id="LOCAL-00001" summary="new section">
+      <created>1654758419063</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654758419063</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

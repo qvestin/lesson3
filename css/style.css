@@ -420,21 +420,59 @@ footer h4{
     color: #FFFFFF;
     padding-bottom: 30px;
 }
-
+footer ul li{
+    margin-right: 24px;
+}
 footer ul li a:before{
     content: "";
     display: inline-block;
     background-image: url("../images/icon11.svg");
     width: 22px;
     height: 22px;
-    margin-right: 24px;
 }
-footer ul li a:nth-child(2):before{
+footer ul li:nth-child(2) a:before{
     background-image: url("../images/icon22.svg");
 }
-footer ul li a:nth-child(3):before{
+footer ul li:nth-child(3) a:before{
     background-image: url("../images/icon33.svg");
 }
-footer ul li a:last-of-type:before{
+footer ul li:last-of-type a:before{
     background-image: url("../images/icon44.svg");
+}
+.ask_a_footer{
+    display: block;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 150%;
+    color: #FFFFFF;
+}
+.pading_a_footer{
+    padding-bottom: 30px;
+}
+.map{
+    max-width: 540px;
+    height: 146px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: relative;
+}
+.map_backgr{
+    background-color: black;
+    opacity: 0.6;
+    position: absolute;
+    width: 100%;
+    color: white;
+    padding-top: 40px;
+    text-align: center;
+    height: 100%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 130%;
+}
+.zero{
+
 }

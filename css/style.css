@@ -457,6 +457,7 @@ footer ul li:last-of-type a:before{
     border-radius: 20px;
     overflow: hidden;
     position: relative;
+    width: 100%;
 }
 .map_backgr{
     background-color: black;

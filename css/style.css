@@ -421,7 +421,7 @@ footer h4{
     padding-bottom: 30px;
 }
 
-footer li a:before{
+footer ul li a:before{
     content: "";
     display: inline-block;
     background-image: url("../images/icon11.svg");
@@ -429,12 +429,12 @@ footer li a:before{
     height: 22px;
     margin-right: 24px;
 }
-footer lia a:nth-child(2):before{
+footer ul li a:nth-child(2):before{
     background-image: url("../images/icon22.svg");
 }
-footer li a:nth-child(3):before{
+footer ul li a:nth-child(3):before{
     background-image: url("../images/icon33.svg");
 }
-footer li a:last-of-type:before{
+footer ul li a:last-of-type:before{
     background-image: url("../images/icon44.svg");
 }

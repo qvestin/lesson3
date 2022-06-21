@@ -4,16 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ae671c-dae1-4d30-b376-47dc6af40458" name="Changes" comment="create section">
-      <change afterPath="$PROJECT_DIR$/css/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
+    <list default="true" id="44ae671c-dae1-4d30-b376-47dc6af40458" name="Changes" comment="creat js">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/scripts.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/scripts.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655470308526</updated>
       <workItem from="1655470309762" duration="9943000" />
-      <workItem from="1655632955029" duration="28389000" />
+      <workItem from="1655632955029" duration="36910000" />
     </task>
     <task id="LOCAL-00001" summary="create section">
       <created>1655540571153</created>
@@ -103,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1655720947037</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="create оы">
+      <created>1655735032421</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1655735032421</updated>
+    </task>
+    <task id="LOCAL-00007" summary="creat js">
+      <created>1655735153840</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1655735153840</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +131,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="create section" />
-    <option name="LAST_COMMIT_MESSAGE" value="create section" />
+    <MESSAGE value="create оы" />
+    <MESSAGE value="creat js" />
+    <option name="LAST_COMMIT_MESSAGE" value="creat js" />
   </component>
 </project>

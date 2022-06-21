@@ -524,7 +524,6 @@ footer ul li:last-of-type a:before {
     position: relative;
     height: 24px;
     width: 24px;
-    right: -47px;
 }
 
 .owl-nav {
@@ -534,4 +533,7 @@ footer ul li:last-of-type a:before {
     display: flex;
     top: -114px;
     left: -155px;
+}
+.owl-next {
+    margin-left: 40px;
 }

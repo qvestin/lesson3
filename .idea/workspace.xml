@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="44ae671c-dae1-4d30-b376-47dc6af40458" name="Changes" comment="creat js carusel">
+    <list default="true" id="44ae671c-dae1-4d30-b376-47dc6af40458" name="Changes" comment="creat acardion">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
@@ -62,7 +62,7 @@
       <updated>1655470308526</updated>
       <workItem from="1655470309762" duration="9943000" />
       <workItem from="1655632955029" duration="43303000" />
-      <workItem from="1655911896505" duration="21950000" />
+      <workItem from="1655911896505" duration="22282000" />
     </task>
     <task id="LOCAL-00001" summary="create section">
       <created>1655540571153</created>
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655807734509</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="creat acardion">
+      <created>1655993518311</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1655993518311</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,6 +177,7 @@
     <MESSAGE value="create оы" />
     <MESSAGE value="creat js" />
     <MESSAGE value="creat js carusel" />
-    <option name="LAST_COMMIT_MESSAGE" value="creat js carusel" />
+    <MESSAGE value="creat acardion" />
+    <option name="LAST_COMMIT_MESSAGE" value="creat acardion" />
   </component>
 </project>
